@@ -1,6 +1,7 @@
 # Background Canonicalization for Vision-Language-Action Models
 
-Background **canonicalization / masking** on top of [VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter)
+This code is for a KIIS Spring conference 2026 paper.
+Background **canonicalization ** on top of [VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter)
 to make robot manipulation policies robust to background perturbations (LIBERO / LIBERO-PRO).
 Cluttered backgrounds are canonicalized into a clean, consistent scene, which is then used to LoRA fine-tune the policy (training) and to stabilize observations at test time (inference).
 

@@ -1,0 +1,51 @@
+Part 1. Merge — 쉬움 (1회성 작업)
+핵심은 다음 4단계:
+
+
+base_vla = AutoModelForVision2Seq.from_pretrained(base_path)
+merged_vla = PeftModel.from_pretrained(base_vla, lora_adapter_path)
+merged_vla = merged_vla.merge_and_unload()
+merged_vla.save_pretrained(output_path)
+ny 코드에 이미 스크립트 있음:
+
+vla-scripts/merge_lora_weights_and_save.py
+scripts/merge_lora.py
+난이도: ⭐ 쉬움
+
+모델이 작음 (~1-2GB). 메모리 부족 없음
+CPU에서도 가능 (1-2분), GPU 사용 시 더 빠름
+2080 11GB로도 충분히 처리 가능 (Qwen2.5-0.5B는 매우 작음)
+Part 2. 2080에서 Inference — 박사가 짚어줘야 할 호환성 이슈
+여기가 사용자가 미리 알아야 할 부분입니다. 2080은 **Turing 아키텍처 (sm_75)**라서 4070/Blackwell과 다른 제약이 있습니다:
+
+항목	Blackwell (학습)	2080 (inference)	대응
+bfloat16	✅ 지원	❌ 미지원 (Ampere sm_80+ 부터)	float16로 cast 필요
+flash-attn 2.8.3	✅ sm_120 빌드	❌ sm_75 미지원	SDPA로 fallback
+torch.compile(max-autotune)	✅	⚠️ 느릴 수도	inference에선 보통 끔
+VRAM	97GB	11GB	batch=1 만 가능
+그래서 2080 inference 코드에서 손봐야 할 것:
+
+모델 dtype:
+
+# 학습: torch.bfloat16
+# inference 2080: torch.float16
+vla = AutoModelForVision2Seq.from_pretrained(path, torch_dtype=torch.float16)
+Attention backend:
+
+# 학습: VLA_ATTN_BACKEND=flash
+# inference 2080: 환경변수 unset 또는 attn_implementation="sdpa"
+Batch size: 1만 가능 (LIBERO eval은 어차피 batch=1이라 무관)
+
+use_pro_version: 학습과 동일하게 True (필수)
+
+num_images_in_input: 학습과 동일하게 1 (필수)
+
+ny의 experiments/robot/libero/run_libero_eval.py가 inference entrypoint인데, 이미 위 항목들을 flag로 받습니다.
+
+
+
+2080에 Python 3.12 + cu118 또는 cu121 torch 설치 (cu130은 2080엔 과한 버전)
+attn_implementation="sdpa" 명시 (flash-attn 빌드 안 함)
+torch_dtype=torch.float16 (bf16 → fp16)
+반드시 학습 setting과 동일: use_pro_version=True, num_images_in_input=1, lora_rank=32
+체크포인트 저장 시 merge_lora_during_training=False라서 평가 직전에 merge 스크립트 한 번 돌리면 됩니다

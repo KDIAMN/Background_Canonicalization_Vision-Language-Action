@@ -1,0 +1,34 @@
+1. 모델
+/path/to/VLA_Adapter/models/base_vla_adapter/   ← 폴더 전체
+
+2. 학습 코드
+/path/to/VLA_Adapter/models/VLA-Adapter/   ← 폴더 전체
+우리가 수정한 파일들이 여기 다 있음 (finetune.py, transforms.py, action_heads.py, backbone 파일들 등)
+
+3. 실행 스크립트
+/path/to/VLA_Adapter/script/finetune_bg_masked_libero_object.sh
+
+4. 데이터셋
+/path/to/VLA_Adapter/datasets/FT_dataset_augment/RLDS_bg_masked_libero_object/bg_masked_libero_o
+
+[설치환경 정보]
+Python 3.10
+torch 2.2.0+cu121
+nvidia-nccl-cu12
+
+[주의사항]
+- 다른 서버 GPU가 Ampere(RTX 3090, A100 등) 이상이면
+  float16 → bfloat16으로 되돌려야 함.
+  수정된 파일: finetune.py, qwen25.py, base_vision.py,
+               dinosiglip_vit.py, modeling_prismatic.py 등
+
+- flash_attn 설치 가능한 서버라면
+  prismatic/models/backbones/llm/qwen25.py의
+  use_flash_attention_2 = False → True로 되돌릴 것
+
+  # 스크립트 안에서 바꿔야 할 경로들
+/path/to/VLA_Adapter/vla_adapter_env/bin/torchrun  ← 새 환경의 torchrun 경로
+/path/to/VLA_Adapter/models/VLA-Adapter            ← PYTHONPATH
+/path/to/VLA_Adapter/models/base_vla_adapter       ← 모델 경로
+/path/to/VLA_Adapter/datasets/...                  ← 데이터 경로
+/path/to/VLA_Adapter/runs/bg_masked_libero_object  ← 결과 저장 경로

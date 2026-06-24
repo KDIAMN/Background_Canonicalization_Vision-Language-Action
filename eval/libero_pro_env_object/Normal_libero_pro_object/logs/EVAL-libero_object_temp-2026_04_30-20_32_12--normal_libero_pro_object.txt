@@ -1,0 +1,440 @@
+Run ID: EVAL-libero_object_temp-2026_04_30-20_32_12--normal_libero_pro_object
+Result root: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object
+Task suite: libero_object_temp | Tasks: 10
+
+Task: pick up the alphabet soup and place it in the basket | Episode 1
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_alphabet_soup_and_place_it_in_the_basket_ep1_fail.mp4
+Result: FAIL | Task SR: 0/1 | Total SR: 0/1 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket | Episode 2
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_alphabet_soup_and_place_it_in_the_basket_ep2_fail.mp4
+Result: FAIL | Task SR: 0/2 | Total SR: 0/2 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket | Episode 3
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_alphabet_soup_and_place_it_in_the_basket_ep3_fail.mp4
+Result: FAIL | Task SR: 0/3 | Total SR: 0/3 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket | Episode 4
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_alphabet_soup_and_place_it_in_the_basket_ep4_fail.mp4
+Result: FAIL | Task SR: 0/4 | Total SR: 0/4 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket | Episode 5
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_alphabet_soup_and_place_it_in_the_basket_ep5_fail.mp4
+Result: FAIL | Task SR: 0/5 | Total SR: 0/5 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket | Episode 6
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_alphabet_soup_and_place_it_in_the_basket_ep6_fail.mp4
+Result: FAIL | Task SR: 0/6 | Total SR: 0/6 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket | Episode 7
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_alphabet_soup_and_place_it_in_the_basket_ep7_fail.mp4
+Result: FAIL | Task SR: 0/7 | Total SR: 0/7 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket | Episode 8
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_alphabet_soup_and_place_it_in_the_basket_ep8_fail.mp4
+Result: FAIL | Task SR: 0/8 | Total SR: 0/8 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket | Episode 9
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_alphabet_soup_and_place_it_in_the_basket_ep9_fail.mp4
+Result: FAIL | Task SR: 0/9 | Total SR: 0/9 (0.0%)
+
+Task: pick up the alphabet soup and place it in the basket | Episode 10
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_alphabet_soup_and_place_it_in_the_basket_ep10_fail.mp4
+Result: FAIL | Task SR: 0/10 | Total SR: 0/10 (0.0%)
+
+[Task 0] pick up the alphabet soup and place it in the basket  →  0/10 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket | Episode 1
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_cream_cheese_and_place_it_in_the_basket_ep1_fail.mp4
+Result: FAIL | Task SR: 0/1 | Total SR: 0/11 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket | Episode 2
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_cream_cheese_and_place_it_in_the_basket_ep2_fail.mp4
+Result: FAIL | Task SR: 0/2 | Total SR: 0/12 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket | Episode 3
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_cream_cheese_and_place_it_in_the_basket_ep3_fail.mp4
+Result: FAIL | Task SR: 0/3 | Total SR: 0/13 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket | Episode 4
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_cream_cheese_and_place_it_in_the_basket_ep4_fail.mp4
+Result: FAIL | Task SR: 0/4 | Total SR: 0/14 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket | Episode 5
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_cream_cheese_and_place_it_in_the_basket_ep5_fail.mp4
+Result: FAIL | Task SR: 0/5 | Total SR: 0/15 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket | Episode 6
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_cream_cheese_and_place_it_in_the_basket_ep6_fail.mp4
+Result: FAIL | Task SR: 0/6 | Total SR: 0/16 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket | Episode 7
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_cream_cheese_and_place_it_in_the_basket_ep7_fail.mp4
+Result: FAIL | Task SR: 0/7 | Total SR: 0/17 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket | Episode 8
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_cream_cheese_and_place_it_in_the_basket_ep8_fail.mp4
+Result: FAIL | Task SR: 0/8 | Total SR: 0/18 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket | Episode 9
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_cream_cheese_and_place_it_in_the_basket_ep9_fail.mp4
+Result: FAIL | Task SR: 0/9 | Total SR: 0/19 (0.0%)
+
+Task: pick up the cream cheese and place it in the basket | Episode 10
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_cream_cheese_and_place_it_in_the_basket_ep10_fail.mp4
+Result: FAIL | Task SR: 0/10 | Total SR: 0/20 (0.0%)
+
+[Task 1] pick up the cream cheese and place it in the basket  →  0/10 (0.0%)
+
+Task: pick up the salad dressing and place it in the basket | Episode 1
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_salad_dressing_and_place_it_in_the_basket_ep1_fail.mp4
+Result: FAIL | Task SR: 0/1 | Total SR: 0/21 (0.0%)
+
+Task: pick up the salad dressing and place it in the basket | Episode 2
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_salad_dressing_and_place_it_in_the_basket_ep2_fail.mp4
+Result: FAIL | Task SR: 0/2 | Total SR: 0/22 (0.0%)
+
+Task: pick up the salad dressing and place it in the basket | Episode 3
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_salad_dressing_and_place_it_in_the_basket_ep3_fail.mp4
+Result: FAIL | Task SR: 0/3 | Total SR: 0/23 (0.0%)
+
+Task: pick up the salad dressing and place it in the basket | Episode 4
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_salad_dressing_and_place_it_in_the_basket_ep4_fail.mp4
+Result: FAIL | Task SR: 0/4 | Total SR: 0/24 (0.0%)
+
+Task: pick up the salad dressing and place it in the basket | Episode 5
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_salad_dressing_and_place_it_in_the_basket_ep5_fail.mp4
+Result: FAIL | Task SR: 0/5 | Total SR: 0/25 (0.0%)
+
+Task: pick up the salad dressing and place it in the basket | Episode 6
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_salad_dressing_and_place_it_in_the_basket_ep6_fail.mp4
+Result: FAIL | Task SR: 0/6 | Total SR: 0/26 (0.0%)
+
+Task: pick up the salad dressing and place it in the basket | Episode 7
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_salad_dressing_and_place_it_in_the_basket_ep7_fail.mp4
+Result: FAIL | Task SR: 0/7 | Total SR: 0/27 (0.0%)
+
+Task: pick up the salad dressing and place it in the basket | Episode 8
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_salad_dressing_and_place_it_in_the_basket_ep8_fail.mp4
+Result: FAIL | Task SR: 0/8 | Total SR: 0/28 (0.0%)
+
+Task: pick up the salad dressing and place it in the basket | Episode 9
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_salad_dressing_and_place_it_in_the_basket_ep9_fail.mp4
+Result: FAIL | Task SR: 0/9 | Total SR: 0/29 (0.0%)
+
+Task: pick up the salad dressing and place it in the basket | Episode 10
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_salad_dressing_and_place_it_in_the_basket_ep10_fail.mp4
+Result: FAIL | Task SR: 0/10 | Total SR: 0/30 (0.0%)
+
+[Task 2] pick up the salad dressing and place it in the basket  →  0/10 (0.0%)
+
+Task: pick up the bbq sauce and place it in the basket | Episode 1
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_bbq_sauce_and_place_it_in_the_basket_ep1_fail.mp4
+Result: FAIL | Task SR: 0/1 | Total SR: 0/31 (0.0%)
+
+Task: pick up the bbq sauce and place it in the basket | Episode 2
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_bbq_sauce_and_place_it_in_the_basket_ep2_fail.mp4
+Result: FAIL | Task SR: 0/2 | Total SR: 0/32 (0.0%)
+
+Task: pick up the bbq sauce and place it in the basket | Episode 3
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_bbq_sauce_and_place_it_in_the_basket_ep3_fail.mp4
+Result: FAIL | Task SR: 0/3 | Total SR: 0/33 (0.0%)
+
+Task: pick up the bbq sauce and place it in the basket | Episode 4
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_bbq_sauce_and_place_it_in_the_basket_ep4_fail.mp4
+Result: FAIL | Task SR: 0/4 | Total SR: 0/34 (0.0%)
+
+Task: pick up the bbq sauce and place it in the basket | Episode 5
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_bbq_sauce_and_place_it_in_the_basket_ep5_fail.mp4
+Result: FAIL | Task SR: 0/5 | Total SR: 0/35 (0.0%)
+
+Task: pick up the bbq sauce and place it in the basket | Episode 6
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_bbq_sauce_and_place_it_in_the_basket_ep6_fail.mp4
+Result: FAIL | Task SR: 0/6 | Total SR: 0/36 (0.0%)
+
+Task: pick up the bbq sauce and place it in the basket | Episode 7
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_bbq_sauce_and_place_it_in_the_basket_ep7_fail.mp4
+Result: FAIL | Task SR: 0/7 | Total SR: 0/37 (0.0%)
+
+Task: pick up the bbq sauce and place it in the basket | Episode 8
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_bbq_sauce_and_place_it_in_the_basket_ep8_fail.mp4
+Result: FAIL | Task SR: 0/8 | Total SR: 0/38 (0.0%)
+
+Task: pick up the bbq sauce and place it in the basket | Episode 9
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_bbq_sauce_and_place_it_in_the_basket_ep9_fail.mp4
+Result: FAIL | Task SR: 0/9 | Total SR: 0/39 (0.0%)
+
+Task: pick up the bbq sauce and place it in the basket | Episode 10
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_bbq_sauce_and_place_it_in_the_basket_ep10_fail.mp4
+Result: FAIL | Task SR: 0/10 | Total SR: 0/40 (0.0%)
+
+[Task 3] pick up the bbq sauce and place it in the basket  →  0/10 (0.0%)
+
+Task: pick up the ketchup and place it in the basket | Episode 1
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_ketchup_and_place_it_in_the_basket_ep1_fail.mp4
+Result: FAIL | Task SR: 0/1 | Total SR: 0/41 (0.0%)
+
+Task: pick up the ketchup and place it in the basket | Episode 2
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_ketchup_and_place_it_in_the_basket_ep2_fail.mp4
+Result: FAIL | Task SR: 0/2 | Total SR: 0/42 (0.0%)
+
+Task: pick up the ketchup and place it in the basket | Episode 3
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_ketchup_and_place_it_in_the_basket_ep3_fail.mp4
+Result: FAIL | Task SR: 0/3 | Total SR: 0/43 (0.0%)
+
+Task: pick up the ketchup and place it in the basket | Episode 4
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_ketchup_and_place_it_in_the_basket_ep4_fail.mp4
+Result: FAIL | Task SR: 0/4 | Total SR: 0/44 (0.0%)
+
+Task: pick up the ketchup and place it in the basket | Episode 5
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_ketchup_and_place_it_in_the_basket_ep5_fail.mp4
+Result: FAIL | Task SR: 0/5 | Total SR: 0/45 (0.0%)
+
+Task: pick up the ketchup and place it in the basket | Episode 6
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_ketchup_and_place_it_in_the_basket_ep6_fail.mp4
+Result: FAIL | Task SR: 0/6 | Total SR: 0/46 (0.0%)
+
+Task: pick up the ketchup and place it in the basket | Episode 7
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_ketchup_and_place_it_in_the_basket_ep7_fail.mp4
+Result: FAIL | Task SR: 0/7 | Total SR: 0/47 (0.0%)
+
+Task: pick up the ketchup and place it in the basket | Episode 8
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_ketchup_and_place_it_in_the_basket_ep8_fail.mp4
+Result: FAIL | Task SR: 0/8 | Total SR: 0/48 (0.0%)
+
+Task: pick up the ketchup and place it in the basket | Episode 9
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_ketchup_and_place_it_in_the_basket_ep9_fail.mp4
+Result: FAIL | Task SR: 0/9 | Total SR: 0/49 (0.0%)
+
+Task: pick up the ketchup and place it in the basket | Episode 10
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_ketchup_and_place_it_in_the_basket_ep10_fail.mp4
+Result: FAIL | Task SR: 0/10 | Total SR: 0/50 (0.0%)
+
+[Task 4] pick up the ketchup and place it in the basket  →  0/10 (0.0%)
+
+Task: pick up the tomato sauce and place it in the basket | Episode 1
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_tomato_sauce_and_place_it_in_the_basket_ep1_fail.mp4
+Result: FAIL | Task SR: 0/1 | Total SR: 0/51 (0.0%)
+
+Task: pick up the tomato sauce and place it in the basket | Episode 2
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_tomato_sauce_and_place_it_in_the_basket_ep2_fail.mp4
+Result: FAIL | Task SR: 0/2 | Total SR: 0/52 (0.0%)
+
+Task: pick up the tomato sauce and place it in the basket | Episode 3
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_tomato_sauce_and_place_it_in_the_basket_ep3_fail.mp4
+Result: FAIL | Task SR: 0/3 | Total SR: 0/53 (0.0%)
+
+Task: pick up the tomato sauce and place it in the basket | Episode 4
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_tomato_sauce_and_place_it_in_the_basket_ep4_fail.mp4
+Result: FAIL | Task SR: 0/4 | Total SR: 0/54 (0.0%)
+
+Task: pick up the tomato sauce and place it in the basket | Episode 5
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_tomato_sauce_and_place_it_in_the_basket_ep5_fail.mp4
+Result: FAIL | Task SR: 0/5 | Total SR: 0/55 (0.0%)
+
+Task: pick up the tomato sauce and place it in the basket | Episode 6
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_tomato_sauce_and_place_it_in_the_basket_ep6_fail.mp4
+Result: FAIL | Task SR: 0/6 | Total SR: 0/56 (0.0%)
+
+Task: pick up the tomato sauce and place it in the basket | Episode 7
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_tomato_sauce_and_place_it_in_the_basket_ep7_fail.mp4
+Result: FAIL | Task SR: 0/7 | Total SR: 0/57 (0.0%)
+
+Task: pick up the tomato sauce and place it in the basket | Episode 8
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_tomato_sauce_and_place_it_in_the_basket_ep8_fail.mp4
+Result: FAIL | Task SR: 0/8 | Total SR: 0/58 (0.0%)
+
+Task: pick up the tomato sauce and place it in the basket | Episode 9
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_tomato_sauce_and_place_it_in_the_basket_ep9_fail.mp4
+Result: FAIL | Task SR: 0/9 | Total SR: 0/59 (0.0%)
+
+Task: pick up the tomato sauce and place it in the basket | Episode 10
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_tomato_sauce_and_place_it_in_the_basket_ep10_fail.mp4
+Result: FAIL | Task SR: 0/10 | Total SR: 0/60 (0.0%)
+
+[Task 5] pick up the tomato sauce and place it in the basket  →  0/10 (0.0%)
+
+Task: pick up the butter and place it in the basket | Episode 1
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_butter_and_place_it_in_the_basket_ep1_fail.mp4
+Result: FAIL | Task SR: 0/1 | Total SR: 0/61 (0.0%)
+
+Task: pick up the butter and place it in the basket | Episode 2
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_butter_and_place_it_in_the_basket_ep2_fail.mp4
+Result: FAIL | Task SR: 0/2 | Total SR: 0/62 (0.0%)
+
+Task: pick up the butter and place it in the basket | Episode 3
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_butter_and_place_it_in_the_basket_ep3_fail.mp4
+Result: FAIL | Task SR: 0/3 | Total SR: 0/63 (0.0%)
+
+Task: pick up the butter and place it in the basket | Episode 4
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_butter_and_place_it_in_the_basket_ep4_fail.mp4
+Result: FAIL | Task SR: 0/4 | Total SR: 0/64 (0.0%)
+
+Task: pick up the butter and place it in the basket | Episode 5
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_butter_and_place_it_in_the_basket_ep5_fail.mp4
+Result: FAIL | Task SR: 0/5 | Total SR: 0/65 (0.0%)
+
+Task: pick up the butter and place it in the basket | Episode 6
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_butter_and_place_it_in_the_basket_ep6_fail.mp4
+Result: FAIL | Task SR: 0/6 | Total SR: 0/66 (0.0%)
+
+Task: pick up the butter and place it in the basket | Episode 7
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_butter_and_place_it_in_the_basket_ep7_fail.mp4
+Result: FAIL | Task SR: 0/7 | Total SR: 0/67 (0.0%)
+
+Task: pick up the butter and place it in the basket | Episode 8
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_butter_and_place_it_in_the_basket_ep8_fail.mp4
+Result: FAIL | Task SR: 0/8 | Total SR: 0/68 (0.0%)
+
+Task: pick up the butter and place it in the basket | Episode 9
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_butter_and_place_it_in_the_basket_ep9_fail.mp4
+Result: FAIL | Task SR: 0/9 | Total SR: 0/69 (0.0%)
+
+Task: pick up the butter and place it in the basket | Episode 10
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_butter_and_place_it_in_the_basket_ep10_fail.mp4
+Result: FAIL | Task SR: 0/10 | Total SR: 0/70 (0.0%)
+
+[Task 6] pick up the butter and place it in the basket  →  0/10 (0.0%)
+
+Task: pick up the milk and place it in the basket | Episode 1
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_milk_and_place_it_in_the_basket_ep1_fail.mp4
+Result: FAIL | Task SR: 0/1 | Total SR: 0/71 (0.0%)
+
+Task: pick up the milk and place it in the basket | Episode 2
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_milk_and_place_it_in_the_basket_ep2_fail.mp4
+Result: FAIL | Task SR: 0/2 | Total SR: 0/72 (0.0%)
+
+Task: pick up the milk and place it in the basket | Episode 3
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_milk_and_place_it_in_the_basket_ep3_fail.mp4
+Result: FAIL | Task SR: 0/3 | Total SR: 0/73 (0.0%)
+
+Task: pick up the milk and place it in the basket | Episode 4
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_milk_and_place_it_in_the_basket_ep4_fail.mp4
+Result: FAIL | Task SR: 0/4 | Total SR: 0/74 (0.0%)
+
+Task: pick up the milk and place it in the basket | Episode 5
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_milk_and_place_it_in_the_basket_ep5_fail.mp4
+Result: FAIL | Task SR: 0/5 | Total SR: 0/75 (0.0%)
+
+Task: pick up the milk and place it in the basket | Episode 6
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_milk_and_place_it_in_the_basket_ep6_fail.mp4
+Result: FAIL | Task SR: 0/6 | Total SR: 0/76 (0.0%)
+
+Task: pick up the milk and place it in the basket | Episode 7
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_milk_and_place_it_in_the_basket_ep7_fail.mp4
+Result: FAIL | Task SR: 0/7 | Total SR: 0/77 (0.0%)
+
+Task: pick up the milk and place it in the basket | Episode 8
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_milk_and_place_it_in_the_basket_ep8_fail.mp4
+Result: FAIL | Task SR: 0/8 | Total SR: 0/78 (0.0%)
+
+Task: pick up the milk and place it in the basket | Episode 9
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_milk_and_place_it_in_the_basket_ep9_fail.mp4
+Result: FAIL | Task SR: 0/9 | Total SR: 0/79 (0.0%)
+
+Task: pick up the milk and place it in the basket | Episode 10
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_milk_and_place_it_in_the_basket_ep10_fail.mp4
+Result: FAIL | Task SR: 0/10 | Total SR: 0/80 (0.0%)
+
+[Task 7] pick up the milk and place it in the basket  →  0/10 (0.0%)
+
+Task: pick up the chocolate pudding and place it in the basket | Episode 1
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_chocolate_pudding_and_place_it_in_the_basket_ep1_fail.mp4
+Result: FAIL | Task SR: 0/1 | Total SR: 0/81 (0.0%)
+
+Task: pick up the chocolate pudding and place it in the basket | Episode 2
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_chocolate_pudding_and_place_it_in_the_basket_ep2_fail.mp4
+Result: FAIL | Task SR: 0/2 | Total SR: 0/82 (0.0%)
+
+Task: pick up the chocolate pudding and place it in the basket | Episode 3
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_chocolate_pudding_and_place_it_in_the_basket_ep3_fail.mp4
+Result: FAIL | Task SR: 0/3 | Total SR: 0/83 (0.0%)
+
+Task: pick up the chocolate pudding and place it in the basket | Episode 4
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_chocolate_pudding_and_place_it_in_the_basket_ep4_fail.mp4
+Result: FAIL | Task SR: 0/4 | Total SR: 0/84 (0.0%)
+
+Task: pick up the chocolate pudding and place it in the basket | Episode 5
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_chocolate_pudding_and_place_it_in_the_basket_ep5_fail.mp4
+Result: FAIL | Task SR: 0/5 | Total SR: 0/85 (0.0%)
+
+Task: pick up the chocolate pudding and place it in the basket | Episode 6
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_chocolate_pudding_and_place_it_in_the_basket_ep6_fail.mp4
+Result: FAIL | Task SR: 0/6 | Total SR: 0/86 (0.0%)
+
+Task: pick up the chocolate pudding and place it in the basket | Episode 7
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_chocolate_pudding_and_place_it_in_the_basket_ep7_fail.mp4
+Result: FAIL | Task SR: 0/7 | Total SR: 0/87 (0.0%)
+
+Task: pick up the chocolate pudding and place it in the basket | Episode 8
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_chocolate_pudding_and_place_it_in_the_basket_ep8_fail.mp4
+Result: FAIL | Task SR: 0/8 | Total SR: 0/88 (0.0%)
+
+Task: pick up the chocolate pudding and place it in the basket | Episode 9
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_chocolate_pudding_and_place_it_in_the_basket_ep9_fail.mp4
+Result: FAIL | Task SR: 0/9 | Total SR: 0/89 (0.0%)
+
+Task: pick up the chocolate pudding and place it in the basket | Episode 10
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_chocolate_pudding_and_place_it_in_the_basket_ep10_fail.mp4
+Result: FAIL | Task SR: 0/10 | Total SR: 0/90 (0.0%)
+
+[Task 8] pick up the chocolate pudding and place it in the basket  →  0/10 (0.0%)
+
+Task: pick up the orange juice and place it in the basket | Episode 1
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_orange_juice_and_place_it_in_the_basket_ep1_fail.mp4
+Result: FAIL | Task SR: 0/1 | Total SR: 0/91 (0.0%)
+
+Task: pick up the orange juice and place it in the basket | Episode 2
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_orange_juice_and_place_it_in_the_basket_ep2_fail.mp4
+Result: FAIL | Task SR: 0/2 | Total SR: 0/92 (0.0%)
+
+Task: pick up the orange juice and place it in the basket | Episode 3
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_orange_juice_and_place_it_in_the_basket_ep3_fail.mp4
+Result: FAIL | Task SR: 0/3 | Total SR: 0/93 (0.0%)
+
+Task: pick up the orange juice and place it in the basket | Episode 4
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_orange_juice_and_place_it_in_the_basket_ep4_fail.mp4
+Result: FAIL | Task SR: 0/4 | Total SR: 0/94 (0.0%)
+
+Task: pick up the orange juice and place it in the basket | Episode 5
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_orange_juice_and_place_it_in_the_basket_ep5_fail.mp4
+Result: FAIL | Task SR: 0/5 | Total SR: 0/95 (0.0%)
+
+Task: pick up the orange juice and place it in the basket | Episode 6
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_orange_juice_and_place_it_in_the_basket_ep6_fail.mp4
+Result: FAIL | Task SR: 0/6 | Total SR: 0/96 (0.0%)
+
+Task: pick up the orange juice and place it in the basket | Episode 7
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_orange_juice_and_place_it_in_the_basket_ep7_fail.mp4
+Result: FAIL | Task SR: 0/7 | Total SR: 0/97 (0.0%)
+
+Task: pick up the orange juice and place it in the basket | Episode 8
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_orange_juice_and_place_it_in_the_basket_ep8_fail.mp4
+Result: FAIL | Task SR: 0/8 | Total SR: 0/98 (0.0%)
+
+Task: pick up the orange juice and place it in the basket | Episode 9
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_orange_juice_and_place_it_in_the_basket_ep9_fail.mp4
+Result: FAIL | Task SR: 0/9 | Total SR: 0/99 (0.0%)
+
+Task: pick up the orange juice and place it in the basket | Episode 10
+Video saved: /path/to/VLA_Adapter/eval/libero_pro_env_object/Normal_libero_pro_object/videos/pick_up_the_orange_juice_and_place_it_in_the_basket_ep10_fail.mp4
+Result: FAIL | Task SR: 0/10 | Total SR: 0/100 (0.0%)
+
+[Task 9] pick up the orange juice and place it in the basket  →  0/10 (0.0%)
+
+=== Per-Task Results ===
+Task  0 | pick up the alphabet soup and place it in the bask |    0/10  (  0.0%)
+Task  1 | pick up the cream cheese and place it in the baske |    0/10  (  0.0%)
+Task  2 | pick up the salad dressing and place it in the bas |    0/10  (  0.0%)
+Task  3 | pick up the bbq sauce and place it in the basket   |    0/10  (  0.0%)
+Task  4 | pick up the ketchup and place it in the basket     |    0/10  (  0.0%)
+Task  5 | pick up the tomato sauce and place it in the baske |    0/10  (  0.0%)
+Task  6 | pick up the butter and place it in the basket      |    0/10  (  0.0%)
+Task  7 | pick up the milk and place it in the basket        |    0/10  (  0.0%)
+Task  8 | pick up the chocolate pudding and place it in the  |    0/10  (  0.0%)
+Task  9 | pick up the orange juice and place it in the baske |    0/10  (  0.0%)
+
+=== Final Results ===
+Total episodes : 100
+Total successes: 0
+Success rate   : 0.0000 (0.0%)

@@ -3,7 +3,7 @@
 This code is for a KIIS Spring conference 2026 paper.  
 
 Background **canonicalization** on top of [VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter)
-to make robot manipulation policies robust to background perturbations (LIBERO / LIBERO-PRO).
+to make robot manipulation policies robust to background perturbations.
 Cluttered backgrounds are canonicalized into a clean, consistent scene, which is then used to LoRA fine-tune the policy (training) and to stabilize observations at test time (inference).
 
 > ⚠️ This repository contains **code and evaluation results only**.

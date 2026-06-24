@@ -1,12 +1,8 @@
 # Background Canonicalization for Vision-Language-Action Models
 
-<p align="center">
-  <img src="background_canonicalization.png" width="100%">
-</p>
-
 Background **canonicalization / masking** on top of [VLA-Adapter](https://github.com/OpenHelix-Team/VLA-Adapter)
 to make robot manipulation policies robust to background perturbations (LIBERO / LIBERO-PRO).
-Cluttered backgrounds are canonicalized into a clean, consistent scene before the frames are used to LoRA fine-tune the policy.
+Cluttered backgrounds are canonicalized into a clean, consistent scene, which is then used to LoRA fine-tune the policy (training) and to stabilize observations at test time (inference).
 
 > ⚠️ This repository contains **code and evaluation results only**.
 > Pretrained weights, datasets, and the virtual environment are **not included** (see [Not Included](#not-included)).
@@ -15,11 +11,28 @@ Cluttered backgrounds are canonicalized into a clean, consistent scene before th
 
 ## Pipeline
 
-1. **Input** — raw observation with a cluttered/perturbed background
-2. **Background canonicalization module** — segment foreground objects and replace the background with a canonical one
+### Training Stage
+
+<p align="center">
+  <img src="bc_train.png" width="100%">
+</p>
+
+1. **Input** — raw observation with a cluttered background
+2. **Background canonicalization module** — segment the foreground objects and replace the background with a canonical one
 3. **Canonicalized frame** — clean, consistent scene
-4. **Preprocessed dataset** — a dataset of canonicalized frames
+4. **Preprocessed dataset** — collect the canonicalized frames into a dataset
 5. **LoRA fine-tuning** — fine-tune the VLA policy on the canonicalized data
+
+### Inference Stage
+
+<p align="center">
+  <img src="bc_inference.png" width="100%">
+</p>
+
+1. **Perturbed input** — observation with an unseen / perturbed background
+2. **Background canonicalization module** — canonicalize the background on the fly
+3. **Canonicalized frame** — matches the distribution the policy was trained on
+4. **Policy inference** — the fine-tuned policy acts on the canonicalized frame → **more robust** to background changes
 
 ---
 
